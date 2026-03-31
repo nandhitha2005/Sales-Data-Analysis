@@ -1,0 +1,13 @@
+Order_ID,Order_Date,Month,Region,Category,Product_Name,Sales,Profit
+1001,10/1/2024,Jan,west,Techonolgy,Laptop,50000,5000
+1002,15/02/2024,Feb,East,Furniture,Chair,8000,1200
+1003,12/3/2024,Mar,South,Offices Supplies,Pen,500,100
+1004,25/01/2024,Jan,west,Techonolgy,Phone,20000,3000
+1005,10/2/2024,Feb,North,Furniture,Table,15000,2000
+1006,5/3/2024,Mar,East,Techonolgy,Tablet,12000,1500
+1007,18/01/2024,Jan,South,Furniture,Sofa,30000,4000
+1008, 20/02/2024,Feb,West,Offices Supplies,Notebook,2000,300
+1009,22/03/2024,Mar,North,Techonolgy,Mointor,10000,1200
+1010,30/01/2024,Jan,East,Furniture,Desk,18000,2500
+1011,14/02/2024,Feb,South,Techonolgy,Mouse,1500,200
+1012,18/03/1024,Mar,west,Offices Supplies,Printer Paper,2500,400
