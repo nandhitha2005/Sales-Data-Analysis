@@ -51,6 +51,9 @@ This project focuses on analyzing sales data using SQL and Excel to extract mean
 - `sales_dashboard.xlsx` → Excel dashboard with charts  
 
 ---
-
+## Dashboard Preview
+![Dashboard](dashboard.png,dashboard2.png)
+---
 ## 🚀 Conclusion  
 This project demonstrates the use of SQL for data analysis and Excel for visualization to generate actionable business insights.
+
